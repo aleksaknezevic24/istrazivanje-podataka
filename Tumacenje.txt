@@ -1,0 +1,31 @@
+Tumačenje brojeva po atributima
+tip_sudara : tip sudara:
+ 1 - Dva vozila - sa prednje strane
+ 2 - Dva vozila - otpozadi
+ 3 - Dva vozila - sa strane
+ 4 - Dva ili više vozila - lančani
+ 5 - Tri ili više vozila - više sudara
+ 6 - Ostalo
+ 7 - Bez kontakta
+atmosferski_uslovi: atmosferski uslovi prilikom saobraćajne nesreće:
+ 1 - Normalni
+ 2 - Slaba kiša
+ 3 - Teška kiša
+ 4 - Sneg
+ 5 - Magla
+ 6 - Jak vetar
+ 7 - Hladno
+ 8 - Oblačno
+ 9 - Ostalo
+stepen_povrede: stepen povrede učesnika u saobraćajnoj nesreći:
+ 1 - Nepovređen
+ 2 - Nastradao
+ 3 - Odvezen u bolnicu (Hospitalizovan)
+ 4 - Lakše povređen
+satminut: vreme udesa zapisano u obliku hhmm
+osvetljenje : Osvetljenje na putu prilikom saobraćajne nesreće
+ 1 - Dan
+ 2 - Svitanje ili zalazak sunca
+ 3 - Noć bez javnog osvetljenja
+ 4 - Noć sa ugašenim javnim osvetljenjem
+ 5 - Noć sa upaljenim javnim osvetljenjem
